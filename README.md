@@ -1,7 +1,7 @@
 # Create a Quiz using AWS Amplify and Cognito (with CI/CD)
 
 # Setuping new user
-
+Open VS Code and create the folder. 
 install amplify using npm command.<br>
 `npm install -g @aws-amplify/cli`
 
