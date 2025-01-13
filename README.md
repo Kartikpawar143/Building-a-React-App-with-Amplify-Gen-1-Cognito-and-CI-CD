@@ -2,7 +2,7 @@
 
 # Setuping new user
 
-install amplify using npm command.
+install amplify using npm command.<br>
 `npm install -g @aws-amplify/cli`
 
 ![Screenshot 2025-01-13 224649](https://github.com/user-attachments/assets/84852616-b793-4b42-8087-ab0a26c68393)
