@@ -15,12 +15,22 @@ Enter to continue and select the region (ap-south-1)<br>
 
 ![Screenshot 2025-01-13 225947](https://github.com/user-attachments/assets/8e918f3a-cf13-4f0f-a2c1-e69ba245ab00)
 
+Open IAM User and Specify user details.<br>
+
 ![Screenshot 2025-01-13 230029](https://github.com/user-attachments/assets/7eacea3a-4aa5-46cf-8004-38bf7fe0d83a)
 
+Enter user name (Amplify-dev).<br>
+Enter next.<br>
 
 ![Screenshot 2025-01-13 230216](https://github.com/user-attachments/assets/edee375f-3437-4dce-b907-3371e2860af5)
 
+Step 2nd is to set the permissions.<br>
+
 ![Screenshot 2025-01-13 230225](https://github.com/user-attachments/assets/fb72e772-d0ef-4a0d-a4ed-096da224d691)
+
+Select the permission option - Attach policies directly.<br>
+Select permission policies - AdministratorAccess-Amplify.<br>
+Then Next.<br>
 
 ![Screenshot 2025-01-13 230338](https://github.com/user-attachments/assets/7dc7bd7d-d54b-440a-b883-e9559370c6f1)
 
