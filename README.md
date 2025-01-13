@@ -9,6 +9,8 @@ install amplify using npm command.<br>
 
 ![Screenshot 2025-01-13 225255](https://github.com/user-attachments/assets/ebbdab6c-9ee9-400c-a156-22b6b9222c58)
 
+Enter to continue and select the region (ap-south-1)
+
 ![Screenshot 2025-01-13 225612](https://github.com/user-attachments/assets/ebd6a6be-f3dd-4d0e-b3ae-bbf4bc80913d)
 
 ![Screenshot 2025-01-13 225947](https://github.com/user-attachments/assets/8e918f3a-cf13-4f0f-a2c1-e69ba245ab00)
