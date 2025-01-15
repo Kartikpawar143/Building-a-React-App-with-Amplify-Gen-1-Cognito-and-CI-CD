@@ -151,6 +151,13 @@ Review and create the user.<br>
 
 ![Screenshot 2025-01-15 002022](https://github.com/user-attachments/assets/753371da-c0ce-4e1d-b7b0-51935f2372f7)
 
+![Screenshot 2025-01-15 002157](https://github.com/user-attachments/assets/e86f0caa-09a7-4ba4-851b-eddb41eeaa55)
+
+![Screenshot 2025-01-15 002212](https://github.com/user-attachments/assets/2a9dce7a-af65-4694-be1e-5c68c735f37a)
+
+![Screenshot 2025-01-15 002656](https://github.com/user-attachments/assets/a21cd15c-4f57-4296-ad48-9d8b190a0b18)
+
+# You have successfully Builded a simple React app (a quiz app) using AWS Amplify Gen 1 and Cognito.
 
 - **App.js**: The React application that's configured to use Cognito for authentication
 - **Quiz.js**: The Quiz component
