@@ -68,6 +68,90 @@ Review and create the user.<br>
 ![Screenshot 2025-01-14 221524](https://github.com/user-attachments/assets/b26ad4d9-90ba-4349-ad16-81cb5bec2a81)
 
 ![Screenshot 2025-01-14 221616](https://github.com/user-attachments/assets/8b001cac-f668-4257-9401-caf46d09303f)
+
+![Screenshot 2025-01-14 221903](https://github.com/user-attachments/assets/2c834182-357c-4ab0-a3d4-8d4cb0fef35e)
+
+![Screenshot 2025-01-14 221944](https://github.com/user-attachments/assets/8256f208-e398-4c3a-b405-9eeedd725a72)
+
+![Screenshot 2025-01-14 222629](https://github.com/user-attachments/assets/f8a26ec6-845b-4873-9585-f55f99747e7b)
+
+![Screenshot 2025-01-14 223118](https://github.com/user-attachments/assets/3dc0a2cc-1d91-4251-94f8-16319463e769)
+
+![Screenshot 2025-01-14 223132](https://github.com/user-attachments/assets/0d500045-76e7-4c57-b4e5-1ad7afdff609)
+
+![Screenshot 2025-01-14 224207](https://github.com/user-attachments/assets/6fc0a147-b51d-4428-878a-ff77d8420a26)
+
+![Screenshot 2025-01-14 224223](https://github.com/user-attachments/assets/64f196bd-b154-445a-a451-11b06c79d25b)
+
+![Screenshot 2025-01-14 224937](https://github.com/user-attachments/assets/210af764-b63e-4148-8e39-151d0657b4fc)
+
+![Screenshot 2025-01-14 224948](https://github.com/user-attachments/assets/b2fcd7d2-e9af-4c1d-81dc-e65c269e57fa)
+
+![Screenshot 2025-01-14 225018](https://github.com/user-attachments/assets/df10e5f7-647a-4ee7-8e51-b3634408b5c9)
+
+![Screenshot 2025-01-14 225033](https://github.com/user-attachments/assets/4245ec4e-0a34-4c6b-8217-00c9b8102a00)
+
+![Screenshot 2025-01-14 225108](https://github.com/user-attachments/assets/f4097819-f11a-44b4-87be-8b882d542082)
+
+![Screenshot 2025-01-14 225118](https://github.com/user-attachments/assets/4b202229-1813-4c9c-b251-073b9f530234)
+
+![Screenshot 2025-01-14 225139](https://github.com/user-attachments/assets/0ecee7d0-00d3-4e82-bc59-c08f73c189e1)
+
+![Screenshot 2025-01-14 225316](https://github.com/user-attachments/assets/425acf96-8333-44cb-9c60-180d009205f9)
+
+![Screenshot 2025-01-14 225923](https://github.com/user-attachments/assets/c13bc793-23e4-4153-a5cf-91277ee68317)
+
+![Screenshot 2025-01-14 230116](https://github.com/user-attachments/assets/a01a2e9c-2f3e-4119-a27f-1b3e3bb3a11e)
+
+![Screenshot 2025-01-14 230148](https://github.com/user-attachments/assets/ac5710ca-25aa-4df5-a130-c5c014f3b747)
+
+![Screenshot 2025-01-14 230605](https://github.com/user-attachments/assets/3bd8b26a-02fc-4917-a9e9-079285e41581)
+
+![Screenshot 2025-01-14 230854](https://github.com/user-attachments/assets/a16bc454-7300-4a1c-8af4-29482906896d)
+
+![Screenshot 2025-01-14 231042](https://github.com/user-attachments/assets/204e7766-ef95-4492-9d81-210095bebe71)
+
+![Screenshot 2025-01-14 231340](https://github.com/user-attachments/assets/ac7fe999-f29e-433a-a4d3-b985a80b3c11)
+
+![Screenshot 2025-01-15 000227](https://github.com/user-attachments/assets/2741a719-4277-4e76-8135-b8f10c14500c)
+
+![Screenshot 2025-01-15 000448](https://github.com/user-attachments/assets/b5b00555-676e-4740-9390-518eb2162597)
+
+![Screenshot 2025-01-15 000459](https://github.com/user-attachments/assets/b9a1743f-7c75-4849-80e5-8a5a45935ca9)
+
+![Screenshot 2025-01-15 000542](https://github.com/user-attachments/assets/d9b3b713-866d-4fdf-b0ab-8d2e4a15a6b7)
+
+![Screenshot 2025-01-15 000557](https://github.com/user-attachments/assets/dd847e9d-9fbd-4928-a18d-b2a87ee23d0c)
+
+![Screenshot 2025-01-15 000725](https://github.com/user-attachments/assets/0365140a-1c08-4817-a57f-1968537bab50)
+
+![Screenshot 2025-01-15 001017](https://github.com/user-attachments/assets/d7545e04-acad-46e2-9177-296e05d4e1dd)
+
+![Screenshot 2025-01-15 001133](https://github.com/user-attachments/assets/342d06f4-e267-4329-b1cc-cdd76e4898a4)
+
+![Screenshot 2025-01-15 001157](https://github.com/user-attachments/assets/a280e027-49c9-41fb-8a43-6364aa7b4ba6)
+
+![Screenshot 2025-01-15 001206](https://github.com/user-attachments/assets/2a342bed-2d2c-4799-8525-3440ff8e161d)
+
+![Screenshot 2025-01-15 001246](https://github.com/user-attachments/assets/a986ac5f-5315-4bd4-b91d-47e1b7e15374)
+
+![Screenshot 2025-01-15 001252](https://github.com/user-attachments/assets/27bf679d-e863-42e5-9daa-cb3736fc400a)
+
+![Screenshot 2025-01-15 001338](https://github.com/user-attachments/assets/2228fab8-e809-4bbf-a2d7-f2ab66cac0c4)
+
+![Screenshot 2025-01-15 001401](https://github.com/user-attachments/assets/500d4501-a2cb-44c1-bb49-f6dd4d063546)
+
+![Screenshot 2025-01-15 001409](https://github.com/user-attachments/assets/ba039450-6b3b-4085-8f86-1e43a8c3414c)
+
+![Screenshot 2025-01-15 001757](https://github.com/user-attachments/assets/096c0e86-39f8-451f-a59d-1c8bdc17d12f)
+
+![Screenshot 2025-01-15 001839](https://github.com/user-attachments/assets/2a34f92f-76c7-4c12-b181-1a2531c2772f)
+
+![Screenshot 2025-01-15 002007](https://github.com/user-attachments/assets/8d7793fa-8ba9-461a-84f7-225378aa1ba8)
+
+![Screenshot 2025-01-15 002022](https://github.com/user-attachments/assets/753371da-c0ce-4e1d-b7b0-51935f2372f7)
+
+
 - **App.js**: The React application that's configured to use Cognito for authentication
 - **Quiz.js**: The Quiz component
 - **quizData.js**: The hard-coded questions and answers for the quiz
