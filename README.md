@@ -66,6 +66,8 @@ Review and create the user.<br>
 ![Screenshot 2025-01-14 220239](https://github.com/user-attachments/assets/e43b2df5-5125-4d13-82d7-77fcac3dfd26)
 
 ![Screenshot 2025-01-14 221524](https://github.com/user-attachments/assets/b26ad4d9-90ba-4349-ad16-81cb5bec2a81)
+
+![Screenshot 2025-01-14 221616](https://github.com/user-attachments/assets/8b001cac-f668-4257-9401-caf46d09303f)
 - **App.js**: The React application that's configured to use Cognito for authentication
 - **Quiz.js**: The Quiz component
 - **quizData.js**: The hard-coded questions and answers for the quiz
