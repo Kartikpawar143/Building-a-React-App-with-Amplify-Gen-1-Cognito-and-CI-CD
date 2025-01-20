@@ -85,9 +85,15 @@ yes <br>
 
 ![Screenshot 2025-01-14 220239](https://github.com/user-attachments/assets/e43b2df5-5125-4d13-82d7-77fcac3dfd26)
 
+Search Amplify AWS. <br>
+
 ![Screenshot 2025-01-14 221524](https://github.com/user-attachments/assets/b26ad4d9-90ba-4349-ad16-81cb5bec2a81)
 
+Open Amplify Aws. <br>
+
 ![Screenshot 2025-01-14 221616](https://github.com/user-attachments/assets/8b001cac-f668-4257-9401-caf46d09303f)
+
+ther is myquizapp. <br>
 
 ![Screenshot 2025-01-14 221903](https://github.com/user-attachments/assets/2c834182-357c-4ab0-a3d4-8d4cb0fef35e)
 
@@ -95,7 +101,11 @@ yes <br>
 
 ![Screenshot 2025-01-14 222629](https://github.com/user-attachments/assets/f8a26ec6-845b-4873-9585-f55f99747e7b)
 
+Search Cognito. <br>
+
 ![Screenshot 2025-01-14 223118](https://github.com/user-attachments/assets/3dc0a2cc-1d91-4251-94f8-16319463e769)
+
+One user pool is created
 
 ![Screenshot 2025-01-14 223132](https://github.com/user-attachments/assets/0d500045-76e7-4c57-b4e5-1ad7afdff609)
 
