@@ -60,14 +60,24 @@ Copy the access key and secret access key. <br>
 
 ![Screenshot 2025-01-13 231016](https://github.com/user-attachments/assets/f4690729-8f74-400c-9624-b2804e3834d7)
 
+Past both keys here. <br>
 
 ![Screenshot 2025-01-13 231110](https://github.com/user-attachments/assets/62d374de-462c-4b2f-b0ad-98e14bf11d0d)
 
+Succesfully setup the new user. <br>
+
 ![Screenshot 2025-01-13 231224](https://github.com/user-attachments/assets/7ce1e2ea-bf5c-4877-954b-18a73e74413e)
+
+npm create-react-app my-quiz-app <br>
 
 ![Screenshot 2025-01-14 214700](https://github.com/user-attachments/assets/bf7aff26-b126-4b80-a4c7-f5674d67486f)
 
+use- cd my-quiz-app <br>
+
 ![Screenshot 2025-01-14 215741](https://github.com/user-attachments/assets/35c9dbdb-4c9a-473a-ad1f-212e5c70d8e6)
+
+amplify init <br>
+yes <br>
 
 ![Screenshot 2025-01-14 215909](https://github.com/user-attachments/assets/246a1a8a-15a7-4d38-957a-8dbe6d37db16)
 
