@@ -40,15 +40,23 @@ Review and create the user.<br>
 
 ![Screenshot 2025-01-13 230542](https://github.com/user-attachments/assets/40e6a255-adca-4178-99d8-aeb19adf9520)
 
-Open Userv(Amplify-dev) the scroll down 
+Open User (Amplify-dev) the scroll down <br>
 
 ![Screenshot 2025-01-13 230739](https://github.com/user-attachments/assets/011825a9-3761-4e03-9c04-7ccf9cc9449e)
 
+click on create access key. <br>
+
 ![Screenshot 2025-01-13 230840](https://github.com/user-attachments/assets/4125ab25-7f35-4945-8922-3cf7370c9996)
+
+Select CLI then next <br>
 
 ![Screenshot 2025-01-13 230928](https://github.com/user-attachments/assets/fbd08103-6cfa-482b-a8f8-c3f8c7689922)
 
+Click on create access key. <br>
+
 ![Screenshot 2025-01-13 231000](https://github.com/user-attachments/assets/af32f0ac-21ab-480f-9aca-9780001aab84)
+
+Copy the access key and secret access key. <br>
 
 ![Screenshot 2025-01-13 231016](https://github.com/user-attachments/assets/f4690729-8f74-400c-9624-b2804e3834d7)
 
