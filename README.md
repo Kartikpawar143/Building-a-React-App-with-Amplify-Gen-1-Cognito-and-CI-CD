@@ -135,6 +135,8 @@ Enter the code which is send on your email. <br>
 
 ![Screenshot 2025-01-14 225118](https://github.com/user-attachments/assets/4b202229-1813-4c9c-b251-073b9f530234)
 
+Sign in. <br>
+
 ![Screenshot 2025-01-14 225139](https://github.com/user-attachments/assets/0ecee7d0-00d3-4e82-bc59-c08f73c189e1)
 
 ![Screenshot 2025-01-14 225316](https://github.com/user-attachments/assets/425acf96-8333-44cb-9c60-180d009205f9)
@@ -145,11 +147,17 @@ Enter the code which is send on your email. <br>
 
 ![Screenshot 2025-01-14 230148](https://github.com/user-attachments/assets/ac5710ca-25aa-4df5-a130-c5c014f3b747)
 
+Create repository.
+Name it "amplify-cogniti-quiz2". <br>
+
 ![Screenshot 2025-01-14 230605](https://github.com/user-attachments/assets/3bd8b26a-02fc-4917-a9e9-079285e41581)
 
 ![Screenshot 2025-01-14 230854](https://github.com/user-attachments/assets/a16bc454-7300-4a1c-8af4-29482906896d)
 
 ![Screenshot 2025-01-14 231042](https://github.com/user-attachments/assets/204e7766-ef95-4492-9d81-210095bebe71)
+
+git branch - to check the branch.
+git branch -M main - to create main branch and keep it default. <br>
 
 ![Screenshot 2025-01-14 231340](https://github.com/user-attachments/assets/ac7fe999-f29e-433a-a4d3-b985a80b3c11)
 
