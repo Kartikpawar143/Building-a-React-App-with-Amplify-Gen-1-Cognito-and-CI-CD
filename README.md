@@ -197,7 +197,7 @@ Add repo and branch. <br>
 ![Screenshot 2025-01-15 000725](https://github.com/user-attachments/assets/0365140a-1c08-4817-a57f-1968537bab50)
 
 Give the app name "myquizapp", <br>
-Frontend build command "npn run build", <br>
+Frontend build command "npm run build", <br>
 Build output directory "build". <br>
 
 ![Screenshot 2025-01-15 001017](https://github.com/user-attachments/assets/d7545e04-acad-46e2-9177-296e05d4e1dd)
@@ -225,7 +225,7 @@ review and create. <br>
 
 ![Screenshot 2025-01-15 001252](https://github.com/user-attachments/assets/27bf679d-e863-42e5-9daa-cb3736fc400a)
 
-Go to the Amplify > myquizapp > Add branch <br
+Go to the Amplify > myquizapp > Add branch <br>
 App settings - add service role "amplifyconsle-backend-role1" <br>
 
 ![Screenshot 2025-01-15 001338](https://github.com/user-attachments/assets/2228fab8-e809-4bbf-a2d7-f2ab66cac0c4)
