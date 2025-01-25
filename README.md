@@ -152,7 +152,11 @@ Name it "amplify-cogniti-quiz2". <br>
 
 ![Screenshot 2025-01-14 230605](https://github.com/user-attachments/assets/3bd8b26a-02fc-4917-a9e9-079285e41581)
 
+git add .
+
 ![Screenshot 2025-01-14 230854](https://github.com/user-attachments/assets/a16bc454-7300-4a1c-8af4-29482906896d)
+
+git commit -m "Initial Commit"
 
 ![Screenshot 2025-01-14 231042](https://github.com/user-attachments/assets/204e7766-ef95-4492-9d81-210095bebe71)
 
@@ -161,17 +165,38 @@ git branch -M main - to create main branch and keep it default. <br>
 
 ![Screenshot 2025-01-14 231340](https://github.com/user-attachments/assets/ac7fe999-f29e-433a-a4d3-b985a80b3c11)
 
+follow the following commands 👇
+git add .
+git rebase --continue
+git push origin main
+
 ![Screenshot 2025-01-15 000227](https://github.com/user-attachments/assets/2741a719-4277-4e76-8135-b8f10c14500c)
+
+Navigate to Amplify then myquizapp. <br>
 
 ![Screenshot 2025-01-15 000448](https://github.com/user-attachments/assets/b5b00555-676e-4740-9390-518eb2162597)
 
+Choose source code provider.
+Github
+then click on next. <br>
+
 ![Screenshot 2025-01-15 000459](https://github.com/user-attachments/assets/b9a1743f-7c75-4849-80e5-8a5a45935ca9)
+
+Install and Authorize on your git account.
+click on only select repository.
+select your repository. <br>
 
 ![Screenshot 2025-01-15 000542](https://github.com/user-attachments/assets/d9b3b713-866d-4fdf-b0ab-8d2e4a15a6b7)
 
+Click on Install and Authorize. <br>
+
 ![Screenshot 2025-01-15 000557](https://github.com/user-attachments/assets/dd847e9d-9fbd-4928-a18d-b2a87ee23d0c)
 
+Add repo and branch. <br>
+
 ![Screenshot 2025-01-15 000725](https://github.com/user-attachments/assets/0365140a-1c08-4817-a57f-1968537bab50)
+
+Give the app name "myquizapp", Frontend build command "npn run build", Build output directory "build". <br>
 
 ![Screenshot 2025-01-15 001017](https://github.com/user-attachments/assets/d7545e04-acad-46e2-9177-296e05d4e1dd)
 
