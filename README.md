@@ -202,23 +202,49 @@ Build output directory "build". <br>
 
 ![Screenshot 2025-01-15 001017](https://github.com/user-attachments/assets/d7545e04-acad-46e2-9177-296e05d4e1dd)
 
+For service role we have to create the role. <br>
+
 ![Screenshot 2025-01-15 001133](https://github.com/user-attachments/assets/342d06f4-e267-4329-b1cc-cdd76e4898a4)
+
+Go to IAM service <br>
+Select AWS Service <br>
+In the use case select the Amplify option. <br>
 
 ![Screenshot 2025-01-15 001157](https://github.com/user-attachments/assets/a280e027-49c9-41fb-8a43-6364aa7b4ba6)
 
+Add permissions <br>
+AdministratorAccess-Amplify. <br>
+click on next <br>
+
 ![Screenshot 2025-01-15 001206](https://github.com/user-attachments/assets/2a342bed-2d2c-4799-8525-3440ff8e161d)
+
+name the role "amplifyconsole-backend-role1" <br>
+review and create. <br>
 
 ![Screenshot 2025-01-15 001246](https://github.com/user-attachments/assets/a986ac5f-5315-4bd4-b91d-47e1b7e15374)
 
 ![Screenshot 2025-01-15 001252](https://github.com/user-attachments/assets/27bf679d-e863-42e5-9daa-cb3736fc400a)
 
+Go to the Amplify > myquizapp > Add branch <br
+App settings - add service role "amplifyconsle-backend-role1" <br>
+
 ![Screenshot 2025-01-15 001338](https://github.com/user-attachments/assets/2228fab8-e809-4bbf-a2d7-f2ab66cac0c4)
+
+Review <br>
+Save and Deploy <br>
 
 ![Screenshot 2025-01-15 001401](https://github.com/user-attachments/assets/500d4501-a2cb-44c1-bb49-f6dd4d063546)
 
+Deploying the app is in process <br>
+
 ![Screenshot 2025-01-15 001409](https://github.com/user-attachments/assets/ba039450-6b3b-4085-8f86-1e43a8c3414c)
 
+myquizeapp is deployed. <br>
+copy the domain and paste it on the browser. <br>
+
 ![Screenshot 2025-01-15 001757](https://github.com/user-attachments/assets/096c0e86-39f8-451f-a59d-1c8bdc17d12f)
+
+Our application is running <br>
 
 ![Screenshot 2025-01-15 001839](https://github.com/user-attachments/assets/2a34f92f-76c7-4c12-b181-1a2531c2772f)
 
