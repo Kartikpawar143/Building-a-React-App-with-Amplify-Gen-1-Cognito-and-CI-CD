@@ -109,15 +109,25 @@ One user pool is created
 
 ![Screenshot 2025-01-14 223132](https://github.com/user-attachments/assets/0d500045-76e7-4c57-b4e5-1ad7afdff609)
 
+Open VS code. <br>
+
 ![Screenshot 2025-01-14 224207](https://github.com/user-attachments/assets/6fc0a147-b51d-4428-878a-ff77d8420a26)
+
+Open the terminal. <br>
 
 ![Screenshot 2025-01-14 224223](https://github.com/user-attachments/assets/64f196bd-b154-445a-a451-11b06c79d25b)
 
+Write npm start command to start the reactjs service. <br>
+
 ![Screenshot 2025-01-14 224937](https://github.com/user-attachments/assets/210af764-b63e-4148-8e39-151d0657b4fc)
+
+Fill the Details. <br>
 
 ![Screenshot 2025-01-14 224948](https://github.com/user-attachments/assets/b2fcd7d2-e9af-4c1d-81dc-e65c269e57fa)
 
 ![Screenshot 2025-01-14 225018](https://github.com/user-attachments/assets/df10e5f7-647a-4ee7-8e51-b3634408b5c9)
+
+Enter the code which is send on your email. <br>
 
 ![Screenshot 2025-01-14 225033](https://github.com/user-attachments/assets/4245ec4e-0a34-4c6b-8217-00c9b8102a00)
 
